@@ -1,0 +1,59 @@
+LICENCJA PROGRAMU Lotto Lab
+
+Copyright © 2026 Mateusz Mazur (Webmazur). Wszelkie prawa zastrzeżone.
+
+Instalując lub używając programu Lotto Lab („Program”), akceptujesz poniższe warunki. Jeśli ich nie
+akceptujesz, nie instaluj Programu.
+
+1. Darmowe używanie
+   Program jest darmowy. Możesz go używać bez opłat, w celach prywatnych, na dowolnej liczbie komputerów.
+
+2. Udostępnianie
+   Możesz udostępniać innym niezmieniony plik instalatora, bezpłatnie i razem z tą licencją.
+
+3. Ograniczenia
+   Nie wolno:
+   a) sprzedawać, wynajmować ani w inny sposób odpłatnie rozpowszechniać Programu,
+   b) zmieniać Programu, tłumaczyć go, dekompilować ani odtwarzać jego kodu źródłowego, chyba że
+      wyraźnie pozwalają na to przepisy prawa,
+   c) usuwać ani zmieniać informacji o autorze, prawach autorskich i licencjach,
+   d) rozpowszechniać zmienionych wersji Programu.
+
+4. Charakter Programu i brak przewidywania wyników
+   Program służy do analizy statystycznej historycznych wyników gier liczbowych. Losowania są losowe:
+   Program nie przewiduje przyszłych wyników i nie zwiększa szansy na wygraną. Każda kombinacja zgodna
+   z zasadami gry ma takie samo prawdopodobieństwo wylosowania. Prezentowane szanse, koszty i porównania
+   strategii mają charakter wyłącznie informacyjny. Program nie przyjmuje zakładów i nie pośredniczy
+   w grach. Gry liczbowe są przeznaczone dla osób pełnoletnich. Graj odpowiedzialnie.
+
+5. Dane i klucz API
+   Program pobiera wyniki z LOTTO OpenAPI (przy użyciu własnego klucza użytkownika) oraz z publicznych
+   archiwów. Za uzyskanie klucza i przestrzeganie regulaminu LOTTO OpenAPI odpowiada użytkownik. Klucz
+   jest przechowywany wyłącznie na komputerze użytkownika, w postaci zaszyfrowanej. Autor nie gwarantuje
+   kompletności ani poprawności danych; w razie rozbieżności rozstrzygają oficjalne wyniki Totalizatora
+   Sportowego.
+
+6. Składniki innych autorów
+   Program zawiera oprogramowanie innych autorów, objęte ich własnymi licencjami, m.in.: Tauri (MIT
+   lub Apache-2.0), React (MIT), Lucide (ISC), Python (PSF License), NumPy (BSD-3-Clause), Pydantic (MIT),
+   SQLAlchemy (MIT), FastAPI (MIT), Uvicorn (BSD-3-Clause), httpx (BSD-3-Clause), APScheduler (MIT),
+   Alembic (MIT). Ta licencja nie ogranicza praw, które dają tamte licencje.
+
+7. Brak gwarancji
+   Program jest dostarczany „tak jak jest” („as is”), bez jakiejkolwiek gwarancji, wyraźnej lub
+   dorozumianej, w szczególności przydatności do określonego celu i bezbłędnego działania.
+
+8. Ograniczenie odpowiedzialności
+   W najszerszym zakresie dopuszczalnym przez prawo autor nie odpowiada za jakiekolwiek szkody wynikłe
+   z używania lub niemożności używania Programu, w tym za straty poniesione w grach, utratę danych
+   i utracone korzyści.
+
+9. Znaki towarowe
+   LOTTO, Lotto Plus, Mini Lotto, Multi Multi, Ekstra Pensja, Ekstra Premia i Kaskada są znakami
+   towarowymi Totalizatora Sportowego Sp. z o.o.; EuroJackpot jest znakiem towarowym jego właściciela.
+   Nazwy gier są używane wyłącznie w celu ich identyfikacji. Lotto Lab jest niezależnym programem,
+   niezwiązanym z Totalizatorem Sportowym i przez niego niewspieranym.
+
+10. Postanowienia końcowe
+    Licencja podlega prawu polskiemu. Jeśli którekolwiek postanowienie okaże się nieważne, pozostałe
+    obowiązują nadal.
